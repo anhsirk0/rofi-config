@@ -1,0 +1,9 @@
+* {
+    background:     #fff2f3; /* bg_main */
+    background-alt: #f2e4ea; /* bg_dim */
+    foreground:     #4f4073; /* fg_main */
+    selected:       #ffa4dc; /* bg_mode_line */
+    selected-fg:    #341f58; /* fg_mode_line */
+    active:         #0f7b8f; /* bg_cyan */
+    urgent:         #d50f7f; /* bg_red_alt */
+}
