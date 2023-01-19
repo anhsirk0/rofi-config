@@ -1,0 +1,2 @@
+This project [[https://codeberg.org/anhsirk0/rofi-config][has moved to Codeberg]], and the GitHub history has been
+  wiped and replaced with this README.
