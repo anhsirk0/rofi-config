@@ -130,7 +130,7 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
 </table>
 
 ## Colors
-<table>
+<table style="width: 100%">
   <tbody>
     <tr>
       <th align="center" style="width: 30%">Available colors</th>
