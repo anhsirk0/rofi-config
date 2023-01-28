@@ -137,12 +137,6 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
       <th align="center">Screenshot</th>
     </tr>
     <tr>
-      <td align="center">operandi</td>
-      <td align="center">
-        <img alt="operandi" src="https://i.postimg.cc/RCsQxmmc/operandi.png"/>
-      </td>
-    </tr>
-    <tr>
       <td align="center">ef-spring</td>
       <td align="center">
         <img alt="ef-spring" src="https://i.postimg.cc/Hx30xDy1/ef-spring.png"/>
@@ -185,15 +179,21 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
       </td>
     </tr>
     <tr>
-      <td align="center">vivendi</td>
-      <td align="center">
-        <img alt="vivendi" src="https://i.postimg.cc/wMvXRfXy/vivendi.png"/>
-      </td>
-    </tr>
-    <tr>
       <td align="center">ef-winter</td>
       <td align="center">
         <img alt="ef-winter" src="https://i.postimg.cc/kX2NnHML/ef-winter.png"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">modus-operandi</td>
+      <td align="center">
+        <img alt="operandi" src="https://i.postimg.cc/RCsQxmmc/operandi.png"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">modus-vivendi</td>
+      <td align="center">
+        <img alt="vivendi" src="https://i.postimg.cc/wMvXRfXy/vivendi.png"/>
       </td>
     </tr>
   </tbody>
