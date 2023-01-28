@@ -13,7 +13,7 @@ configuration {
 }
 
 /*****----- Global Properties -----*****/
-@import                          "colors/ef-trio-dark.rasi"
+@import	 "colors/ef-trio-light.rasi"
 
 /*****----- Main Window -----*****/
 window {
@@ -21,7 +21,9 @@ window {
     anchor:                      center;
     fullscreen:                  false;
     width:                       500px;
+    border:                      2px solid;
     border-radius:               20px;
+    border-color:                @selected;
     cursor:                      "default";
     background-color:            @background;
 }
