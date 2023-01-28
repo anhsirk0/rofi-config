@@ -40,7 +40,7 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
         </ul>
       </td>
       <td align="center">
-        <img alt="browser" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/browser.png"/>
+        <img alt="browser" src="https://i.postimg.cc/tJwxZXRw/browser.png"/>
       </td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
         </ul>
       </td>
       <td align="center">
-        <img alt="brightness" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/brightness.png"/>
+        <img alt="brightness" src="https://i.postimg.cc/k53vYymz/brightness.png"/>
       </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
         </ul>
       </td>
       <td align="center">
-        <img alt="volume" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/volume.png"/>
+        <img alt="volume" src="https://i.postimg.cc/GhfQGCSc/volume.png"/>
       </td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
         </ul>
       </td>
       <td align="center">
-        <img alt="screenshot" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/screenshot.png"/>
+        <img alt="screenshot" src="https://i.postimg.cc/JzBQQ29j/screenshot.png"/>
       </td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
         <p>Selected emoji will be copied to clipboard</p>
       </td>
       <td align="center">
-        <img alt="emoji" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/emoji.png"/>
+        <img alt="emoji" src="https://i.postimg.cc/QMJ14GSK/emoji.png"/>
       </td>
     </tr>
     <tr>
@@ -113,7 +113,7 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
         <p>Lockscreen, Sleep, Logout, Reboot, Shutdown</p>
       </td>
       <td align="center">
-        <img alt="powermenu" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/powermenu.png"/>
+        <img alt="powermenu" src="https://i.postimg.cc/PxfZ03F3/powermenu.png"/>
       </td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
         <strong>This will work only for my version of <a href="https://gitlab.com/anhsirk0/lollypop-music-player">lollypop</a></strong>
       </td>
       <td align="center">
-        <img alt="lollypop" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/lollypop.png"/>
+        <img alt="lollypop" src="https://i.postimg.cc/nrCmhsxq/lollypop.png"/>
       </td>
     </tr>
   </tbody>
@@ -133,61 +133,67 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
 <table>
   <tbody>
     <tr>
-      <th>Color</th>
+      <th>Available colors</th>
       <th align="center">Screenshot</th>
     </tr>
     <tr>
       <td align="center">operandi</td>
       <td align="center">
-        <img alt="operandi" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/operandi.png"/>
+        <img alt="operandi" src="https://i.postimg.cc/RCsQxmmc/operandi.png"/>
       </td>
     </tr>
     <tr>
       <td align="center">ef-spring</td>
       <td align="center">
-        <img alt="ef-spring" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/ef-spring.png"/>
+        <img alt="ef-spring" src="https://i.postimg.cc/Hx30xDy1/ef-spring.png"/>
       </td>
     </tr>
     <tr>
       <td align="center">ef-summer</td>
       <td align="center">
-        <img alt="ef-summer" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/ef-summer.png"/>
+        <img alt="ef-summer" src="https://i.postimg.cc/zGWnhRgj/ef-summer.png"/>
       </td>
     </tr>
     <tr>
       <td align="center">ef-trio-light</td>
       <td align="center">
-        <img alt="ef-trio-light" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/ef-trio-light.png"/>
+        <img alt="ef-trio-light" src="https://i.postimg.cc/RV27qTNh/ef-trio-light.png"/>
       </td>
     </tr>
     <tr>
       <td align="center">ef-autumn</td>
       <td align="center">
-        <img alt="ef-autumn" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/ef-autumn.png"/>
+        <img alt="ef-autumn" src="https://i.postimg.cc/yd7XsYWT/ef-autumn.png"/>
       </td>
     </tr>
     <tr>
       <td align="center">ef-bio</td>
       <td align="center">
-        <img alt="ef-bio" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/ef-bio.png"/>
+        <img alt="ef-bio" src="https://i.postimg.cc/DZCshr92/ef-bio.png"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">ef-cherie</td>
+      <td align="center">
+        <img alt="ef-bio" src="https://i.postimg.cc/s2r54DPR/ef-cherie.png"/>
       </td>
     </tr>
     <tr>
       <td align="center">ef-trio-dark</td>
       <td align="center">
-        <img alt="ef-trio-dark" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/ef-trio-dark.png"/>
+        <img alt="ef-trio-dark" src="https://i.postimg.cc/4ySz66P8/ef-trio-dark.png"/>
       </td>
     </tr>
     <tr>
       <td align="center">vivendi</td>
       <td align="center">
-        <img alt="vivendi" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/vivendi.png"/>
+        <img alt="vivendi" src="https://i.postimg.cc/wMvXRfXy/vivendi.png"/>
       </td>
     </tr>
     <tr>
       <td align="center">ef-winter</td>
       <td align="center">
-        <img alt="ef-winter" src="https://github.com/anhsirk0/rofi-config/blob/master/screenshots/ef-winter.png"/>
+        <img alt="ef-winter" src="https://i.postimg.cc/kX2NnHML/ef-winter.png"/>
       </td>
     </tr>
   </tbody>
