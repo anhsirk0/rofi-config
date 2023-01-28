@@ -133,7 +133,7 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
 <table>
   <tbody>
     <tr>
-      <th>Available colors</th>
+      <th align="center">Available colors</th>
       <th align="center">Screenshot</th>
     </tr>
     <tr>
