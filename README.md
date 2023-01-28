@@ -130,10 +130,10 @@ git clone https://github.com/anhsirk0/rofi-config --depth 1
 </table>
 
 ## Colors
-<table style="width: 100%;">
+<table>
   <tbody>
     <tr>
-      <th align="center" style="width: 40%;">Available colors</th>
+      <th align="center" style="width: 25%;">Available colors</th>
       <th align="center">Screenshot</th>
     </tr>
     <tr>
