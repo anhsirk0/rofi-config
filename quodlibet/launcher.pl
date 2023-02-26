@@ -49,6 +49,7 @@ sub to_uri {
     my ($name) = @_;
     my $uri = "file://" . $songs_dir . "/" . $name . ".mp3";
     $uri =~ s/ /%20/g;
+    $uri = "'" . $uri . "'";
     return $uri;
 }
 
@@ -70,9 +71,9 @@ sub main {
 
     unless ($chosen) { exit }
     if($chosen eq "Play next") {
-        ql("--next", 'notify-send "Next"');
+        ql("--next", '"Next"');
     } else {
-        my ($song, $artist) = split "-", $chosen;
+        my ($song, $artist) = split " - ", $chosen;
         ql("--enqueue " . to_uri($chosen), qq{"=> $song" "$artist"});
     }
 
