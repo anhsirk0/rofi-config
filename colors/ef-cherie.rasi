@@ -1,7 +1,7 @@
 * {
     background:     #190a0f; /* bg_main */
     background-alt: #1e1216; /* bg_inactive */
-    foreground:     #d3cfcf; /* fg_red */
+    foreground:     #d3cfcf; /* fg_main */
     selected:       #771a4f; /* bg_accent */
     selected-fg:    #ffcfdf; /* fg_accent */
     active:         #60b444; /* fg_green */
