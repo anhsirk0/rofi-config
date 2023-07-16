@@ -1,0 +1,10 @@
+/* Ef-Cyprus */
+* {
+    background:     #fcf7ef; /* bg_main */
+    background-alt: #f0ece0; /* bg_dim */
+    foreground:     #242521; /* fg_main */
+    selected:       #c0df6f; /* bg_mode_line */
+    selected-fg:    #142010; /* fg_mode_line */
+    active:         #006f00; /* g_green */
+    urgent:         #9f0d0f; /* red */
+}

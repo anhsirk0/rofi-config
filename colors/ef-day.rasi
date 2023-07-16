@@ -1,0 +1,10 @@
+/* Ef-Day */
+* {
+    background:     #fff5ea; /* bg_main */
+    background-alt: #f2e9db; /* bg_dim */
+    foreground:     #584141; /* fg_main */
+    selected:       #ffaf72; /* bg_mode_line */
+    selected-fg:    #542f38; /* fg_mode_line */
+    active:         #007a0a; /* g_green */
+    urgent:         #ba2d2f; /* red */
+}

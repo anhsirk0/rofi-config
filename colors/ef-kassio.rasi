@@ -1,0 +1,10 @@
+/* Ef-Kassio */
+* {
+    background:     #fff7f7; /* bg_main */
+    background-alt: #efe7e7; /* bg_dim */
+    foreground:     #201f36; /* fg_main */
+    selected:       #e0bfba; /* bg_mode_line */
+    selected-fg:    #151515; /* fg_mode_line */
+    active:         #217a3c; /* g_green */
+    urgent:         #b00234; /* red */
+}

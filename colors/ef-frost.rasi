@@ -1,0 +1,10 @@
+/* Ef-Frost */
+* {
+    background:     #fcffff; /* bg_main */
+    background-alt: #eaefef; /* bg_dim */
+    foreground:     #232323; /* fg_main */
+    selected:       #9ad0ff; /* bg_mode_line */
+    selected-fg:    #051524; /* fg_mode_line */
+    active:         #008a00; /* g_green */
+    urgent:         #c42d2f; /* red */
+}

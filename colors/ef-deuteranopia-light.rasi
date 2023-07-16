@@ -1,0 +1,10 @@
+/* Ef-Deuteranopia-Light */
+* {
+    background:     #f5f5ff; /* bg_main */
+    background-alt: #e8e8ea; /* bg_dim */
+    foreground:     #1a1a2f; /* fg_main */
+    selected:       #99c7ff; /* bg_mode_line */
+    selected-fg:    #0a0a1f; /* fg_mode_line */
+    active:         #217a3c; /* g_green */
+    urgent:         #d3303a; /* red */
+}

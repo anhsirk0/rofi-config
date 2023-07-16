@@ -1,0 +1,10 @@
+/* Ef-Night */
+* {
+    background:     #000e17; /* bg_main */
+    background-alt: #1a202b; /* bg_dim */
+    foreground:     #afbcbf; /* fg_main */
+    selected:       #003a7f; /* bg_mode_line */
+    selected-fg:    #ceeeff; /* fg_mode_line */
+    active:         #1fa526; /* g_green */
+    urgent:         #ef656a; /* red */
+}

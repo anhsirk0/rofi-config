@@ -1,0 +1,10 @@
+/* Ef-Deuteranopia-Dark */
+* {
+    background:     #000a1f; /* bg_main */
+    background-alt: #121f34; /* bg_dim */
+    foreground:     #ddddee; /* fg_main */
+    selected:       #003f8f; /* bg_mode_line */
+    selected-fg:    #ffffff; /* fg_mode_line */
+    active:         #3faa26; /* g_green */
+    urgent:         #cf8560; /* red */
+}

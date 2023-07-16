@@ -1,0 +1,10 @@
+/* Ef-Duo-Dark */
+* {
+    background:     #070019; /* bg_main */
+    background-alt: #1d1a26; /* bg_dim */
+    foreground:     #d0d0d0; /* fg_main */
+    selected:       #352487; /* bg_mode_line */
+    selected-fg:    #dedeff; /* fg_mode_line */
+    active:         #1fa526; /* g_green */
+    urgent:         #ef656a; /* red */
+}

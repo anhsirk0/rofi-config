@@ -1,0 +1,10 @@
+/* Ef-Symbiosis */
+* {
+    background:     #130911; /* bg_main */
+    background-alt: #221920; /* bg_dim */
+    foreground:     #d0d0d0; /* fg_main */
+    selected:       #583435; /* bg_mode_line */
+    selected-fg:    #ffe5f0; /* fg_mode_line */
+    active:         #0faa26; /* g_green */
+    urgent:         #ef6360; /* red */
+}

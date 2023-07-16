@@ -1,0 +1,10 @@
+/* Ef-Light */
+* {
+    background:     #ffffff; /* bg_main */
+    background-alt: #efefef; /* bg_dim */
+    foreground:     #202020; /* fg_main */
+    selected:       #b7c7ff; /* bg_mode_line */
+    selected-fg:    #151515; /* fg_mode_line */
+    active:         #217a3c; /* g_green */
+    urgent:         #d3303a; /* red */
+}

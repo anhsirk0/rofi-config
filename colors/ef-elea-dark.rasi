@@ -1,0 +1,10 @@
+/* Ef-Elea-Dark */
+* {
+    background:     #222524; /* bg_main */
+    background-alt: #303332; /* bg_dim */
+    foreground:     #eaf2ef; /* fg_main */
+    selected:       #35605d; /* bg_mode_line */
+    selected-fg:    #ecf0ff; /* fg_mode_line */
+    active:         #7fc87f; /* g_green */
+    urgent:         #ff656a; /* red */
+}
