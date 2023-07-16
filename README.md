@@ -1,9 +1,14 @@
 # My Rofi config
 
++ Git repo on Codeberg: <https://codeberg.org/anhsirk0/rofi-config>
+  - Mirrors:
+    + GitHub: <https://github.com/anhsirk0/rofi-config>
+
+
 ## Styles borrowed from Adi1090x's rofi themes
 
 This repo has my rofi scripts for various menu/launchers  
-It has 2 styles and 12 colors (from modus-themes (2) and ef-themes (10))
+It has 2 styles and 26 colors (from modus-themes (2) and ef-themes (24))
 
 ## Installation
 Clone the repo into ~/.config/rofi/
@@ -209,6 +214,9 @@ $ ~/.config/rofi/change-theme.pl bio
 ef-bio.rasi' rofi theme selected
 ```
 > This will change theme to the first theme that has bio in its name
+
+### Ef-themes pictures
+Ef-themes pictures: https://protesilaos.com/emacs/ef-themes-pictures  
 
 
 ## Thanks
