@@ -1,0 +1,10 @@
+/* Modus-Operandi-Tinted */
+* {
+    background:     #fbf7f0; /* bg_main */
+    background-alt: #efe9dd; /* bg_dim */
+    foreground:     #000000; /* fg_main */
+    selected:       #cab9b2; /* bg_mode_line */
+    selected-fg:    #000000; /* fg_mode_line */
+    active:         #006800; /* g_green */
+    urgent:         #a60000; /* red */
+}
