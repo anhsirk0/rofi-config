@@ -40,6 +40,7 @@ sub update_file {
 sub main {
     if (scalar @ARGV > 0) {
         my @all_themes = split "\n", `ls $colors_dir`;
+        @all_themes = sort { length($a) <=> length($b) } @all_themes;
         ($theme) = grep /$ARGV[0]/, @all_themes;
         unless ($theme) {
             print "No theme found for \'$ARGV[0]\'\n"; 
