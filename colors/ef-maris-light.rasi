@@ -1,0 +1,10 @@
+/* Ef-Maris-Light */
+* {
+    background:     #edf4f8; /* bg_main */
+    background-alt: #e0e7ef; /* bg_dim */
+    foreground:     #151a27; /* fg_main */
+    selected:       #a0c2ef; /* bg_mode_line */
+    selected-fg:    #142810; /* fg_mode_line */
+    active:         #007010; /* g_green */
+    urgent:         #c3303a; /* red */
+}
