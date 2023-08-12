@@ -20,7 +20,7 @@ configuration {
 }
 
 /*****----- Global Properties -----*****/
-@import	 "colors/vivendi-tinted.rasi"
+@import	 "colors/ef-maris-light.rasi"
 
 * {
     border-colour:               var(selected);
@@ -122,7 +122,7 @@ entry {
 listview {
     enabled:                     true;
     columns:                     2;
-    lines:                       16;
+    lines:                       17;
     cycle:                       true;
     dynamic:                     true;
     scrollbar:                   false;
