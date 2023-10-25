@@ -1,0 +1,10 @@
+/* Ef-Melissa-Dark */
+* {
+    background:     #352718; /* bg_main */
+    background-alt: #483426; /* bg_dim */
+    foreground:     #e8e4b1; /* fg_main */
+    selected:       #704f00; /* bg_mode_line */
+    selected-fg:    #f8efd8; /* fg_mode_line */
+    active:         #6fd560; /* g_green */
+    urgent:         #ff7f7f; /* red */
+}

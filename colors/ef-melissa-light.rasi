@@ -1,0 +1,10 @@
+/* Ef-Melissa-Light */
+* {
+    background:     #fff6d8; /* bg_main */
+    background-alt: #f5e9cb; /* bg_dim */
+    foreground:     #484431; /* fg_main */
+    selected:       #f3cf72; /* bg_mode_line */
+    selected-fg:    #403328; /* fg_mode_line */
+    active:         #007a0a; /* g_green */
+    urgent:         #ba2d2f; /* red */
+}
