@@ -1,0 +1,10 @@
+/* Modus-Vivendi-Tritanopia */
+* {
+    background:     #000000; /* bg_main */
+    background-alt: #1e1e1e; /* bg_dim */
+    foreground:     #ffffff; /* fg_main */
+    selected:       #003c52; /* bg_mode_line */
+    selected-fg:    #ffffff; /* fg_mode_line */
+    active:         #44bc44; /* g_green */
+    urgent:         #ff5f59; /* red */
+}

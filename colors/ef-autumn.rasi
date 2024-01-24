@@ -1,9 +1,10 @@
+/* Ef-Autumn */
 * {
     background:     #0f0e06; /* bg_main */
-    background-alt: #1f1b19; /* bg_dim */
+    background-alt: #26211d; /* bg_dim */
     foreground:     #cfbcba; /* fg_main */
-    selected:       #692a12; /* bg_accent */
-    selected-fg:    #feeeca; /* bg_dim */
-    active:         #2fa526; /* bg_green */
-    urgent:         #ef6560; /* bg_red */
+    selected:       #692a12; /* bg_mode_line */
+    selected-fg:    #feeeca; /* fg_mode_line */
+    active:         #2fa526; /* g_green */
+    urgent:         #ef656a; /* red */
 }

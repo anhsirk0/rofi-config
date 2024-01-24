@@ -1,9 +1,10 @@
+/* Ef-Cherie */
 * {
     background:     #190a0f; /* bg_main */
-    background-alt: #1e1216; /* bg_inactive */
+    background-alt: #291f26; /* bg_dim */
     foreground:     #d3cfcf; /* fg_main */
-    selected:       #771a4f; /* bg_accent */
-    selected-fg:    #ffcfdf; /* fg_accent */
-    active:         #60b444; /* fg_green */
-    urgent:         #ff7359; /* fg_red */
+    selected:       #771a4f; /* bg_mode_line */
+    selected-fg:    #ffcfdf; /* fg_mode_line */
+    active:         #60b444; /* g_green */
+    urgent:         #ff7359; /* red */
 }

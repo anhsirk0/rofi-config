@@ -1,0 +1,10 @@
+/* Modus-Vivendi-Tinted */
+* {
+    background:     #0d0e1c; /* bg_main */
+    background-alt: #1d2235; /* bg_dim */
+    foreground:     #ffffff; /* fg_main */
+    selected:       #484d67; /* bg_mode_line */
+    selected-fg:    #ffffff; /* fg_mode_line */
+    active:         #44bc44; /* g_green */
+    urgent:         #ff5f59; /* red */
+}

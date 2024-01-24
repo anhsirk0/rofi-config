@@ -1,0 +1,10 @@
+/* Ef-Arbutus */
+* {
+    background:     #ffead8; /* bg_main */
+    background-alt: #f0d8cf; /* bg_dim */
+    foreground:     #393330; /* fg_main */
+    selected:       #e9a0a0; /* bg_mode_line */
+    selected-fg:    #40231f; /* fg_mode_line */
+    active:         #007000; /* g_green */
+    urgent:         #b0000f; /* red */
+}

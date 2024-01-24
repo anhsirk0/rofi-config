@@ -1,9 +1,10 @@
+/* Ef-Spring */
 * {
     background:     #f6fff9; /* bg_main */
     background-alt: #e8f0f0; /* bg_dim */
     foreground:     #34494a; /* fg_main */
-    selected:       #90e8b0; /* bg_blue */
-    selected-fg:    #34494a; /* bg_blue */
-    active:         #1a870f; /* bg_green */
-    urgent:         #cf2f4f; /* bg_red */
+    selected:       #90e8b0; /* bg_mode_line */
+    selected-fg:    #243228; /* fg_mode_line */
+    active:         #1a870f; /* g_green */
+    urgent:         #c42d2f; /* red */
 }

@@ -1,9 +1,10 @@
+/* Ef-Tritanopia-Light */
 * {
     background:     #fff9f9; /* bg_main */
     background-alt: #efecec; /* bg_dim */
     foreground:     #1a1a1a; /* fg_main */
-    selected:       #ff99aa; /* bg_accent */
-    selected-fg:    #1a0a0f; /* fg_accent */
-    active:         #008058; /* bg_green */
-    urgent:         #c50f4f; /* bg_red */
+    selected:       #ff99aa; /* bg_mode_line */
+    selected-fg:    #1a0a0f; /* fg_mode_line */
+    active:         #217a3c; /* g_green */
+    urgent:         #aa0010; /* red */
 }

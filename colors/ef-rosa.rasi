@@ -1,0 +1,10 @@
+/* Ef-Rosa */
+* {
+    background:     #322023; /* bg_main */
+    background-alt: #432e32; /* bg_dim */
+    foreground:     #e4d3e1; /* fg_main */
+    selected:       #814558; /* bg_mode_line */
+    selected-fg:    #e8e5e7; /* fg_mode_line */
+    active:         #55cb56; /* g_green */
+    urgent:         #ff707f; /* red */
+}
