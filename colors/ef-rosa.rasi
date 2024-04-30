@@ -5,6 +5,6 @@
     foreground:     #e4d3e1; /* fg_main */
     selected:       #814558; /* bg_mode_line */
     selected-fg:    #e8e5e7; /* fg_mode_line */
-    active:         #55cb56; /* g_green */
+    active:         #5fbb5f; /* g_green */
     urgent:         #ff707f; /* red */
 }

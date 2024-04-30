@@ -1,0 +1,10 @@
+/* Ef-Dream */
+* {
+    background:     #232025; /* bg_main */
+    background-alt: #322f34; /* bg_dim */
+    foreground:     #efd5c5; /* fg_main */
+    selected:       #675072; /* bg_mode_line */
+    selected-fg:    #fedeff; /* fg_mode_line */
+    active:         #51b04f; /* g_green */
+    urgent:         #ff6f6f; /* red */
+}

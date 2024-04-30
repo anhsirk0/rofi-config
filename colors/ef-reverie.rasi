@@ -1,0 +1,10 @@
+/* Ef-Reverie */
+* {
+    background:     #f3eddf; /* bg_main */
+    background-alt: #e5d6d4; /* bg_dim */
+    foreground:     #4f204f; /* fg_main */
+    selected:       #d1b0df; /* bg_mode_line */
+    selected-fg:    #523044; /* fg_mode_line */
+    active:         #007a0a; /* g_green */
+    urgent:         #ba2d2f; /* red */
+}
