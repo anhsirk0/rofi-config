@@ -1,0 +1,10 @@
+/* Ef-Eagle */
+* {
+    background:     #f1ecd0; /* bg_main */
+    background-alt: #e4dbc0; /* bg_dim */
+    foreground:     #231a1f; /* fg_main */
+    selected:       #cfab80; /* bg_mode_line */
+    selected-fg:    #2f1005; /* fg_mode_line */
+    active:         #226022; /* g_green */
+    urgent:         #882000; /* red */
+}

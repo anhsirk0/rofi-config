@@ -1,0 +1,10 @@
+/* Ef-Owl */
+* {
+    background:     #292c2f; /* bg_main */
+    background-alt: #373b3d; /* bg_dim */
+    foreground:     #d0d0d0; /* fg_main */
+    selected:       #5b637e; /* bg_mode_line */
+    selected-fg:    #dadfe5; /* fg_mode_line */
+    active:         #70bb70; /* g_green */
+    urgent:         #d67869; /* red */
+}
