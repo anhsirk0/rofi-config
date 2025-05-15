@@ -1,0 +1,10 @@
+/* Doric-Wind */
+* {
+    background:     #e8f0e9; /* bg_main */
+    background-alt: #d3dbd9; /* bg_dim */
+    foreground:     #000000; /* fg_main */
+    selected:       #8fbbbe; /* bg_mode_line */
+    selected-fg:    #000000; /* fg_mode_line */
+    active:         #00620f; /* g_green */
+    urgent:         #750000; /* red */
+}

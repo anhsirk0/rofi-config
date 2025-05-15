@@ -1,0 +1,10 @@
+/* Doric-Dark */
+* {
+    background:     #000000; /* bg_main */
+    background-alt: #363041; /* bg_dim */
+    foreground:     #ffffff; /* fg_main */
+    selected:       #50447f; /* bg_mode_line */
+    selected-fg:    #ffffff; /* fg_mode_line */
+    active:         #85c397; /* g_green */
+    urgent:         #dba2a2; /* red */
+}
