@@ -8,7 +8,7 @@
 ## Styles borrowed from Adi1090x's rofi themes
 
 This repo has my rofi scripts for various menu/launchers  
-It has 2 styles and 26 colors (from modus-themes (2) and ef-themes (24))
+It has 2 styles and 48 colors (from modus-themes (8), doric-themes (6) and ef-themes (34))
 
 ## Installation
 Clone the repo into ~/.config/rofi/
@@ -217,9 +217,11 @@ ef-bio.rasi' rofi theme selected
 
 ### Ef-themes pictures
 Ef-themes pictures: https://protesilaos.com/emacs/ef-themes-pictures  
+Doric-themes pictures: https://protesilaos.com/emacs/doric-themes-pictures  
 
 
 ## Thanks
 Rofi styles - https://github.com/adi1090x/rofi  
 Modus themes - https://protesilaos.com/emacs/modus-themes-colors  
 Ef themes - https://protesilaos.com/emacs/ef-themes  
+Doric themes - https://protesilaos.com/emacs/doric-themes  
