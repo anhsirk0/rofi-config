@@ -8,7 +8,7 @@
 ## Styles borrowed from Adi1090x's rofi themes
 
 This repo has my rofi scripts for various menu/launchers  
-It has 2 styles and 48 colors (from modus-themes (8), doric-themes (6) and ef-themes (34))
+It has 2 styles and 50 colors (from modus-themes (8), doric-themes (8) and ef-themes (34))
 
 ## Installation
 Clone the repo into ~/.config/rofi/
