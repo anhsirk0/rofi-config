@@ -1,0 +1,10 @@
+/* Doric-Obsidian */
+* {
+    background:     #181818; /* bg_main */
+    background-alt: #2f2f2f; /* bg_dim */
+    foreground:     #e7e7e7; /* fg_main */
+    selected:       #505050; /* bg_mode_line */
+    selected-fg:    #e7e7e7; /* fg_mode_line */
+    active:         #85c397; /* g_green */
+    urgent:         #dba2a2; /* red */
+}

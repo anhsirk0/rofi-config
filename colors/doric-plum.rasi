@@ -1,0 +1,10 @@
+/* Doric-Plum */
+* {
+    background:     #221832; /* bg_main */
+    background-alt: #382b4e; /* bg_dim */
+    foreground:     #e2d7e7; /* fg_main */
+    selected:       #604179; /* bg_mode_line */
+    selected-fg:    #e2d7e7; /* fg_mode_line */
+    active:         #85c397; /* g_green */
+    urgent:         #dba2a2; /* red */
+}

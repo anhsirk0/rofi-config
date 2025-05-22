@@ -1,10 +1,10 @@
 /* Doric-Water */
 * {
     background:     #2a283d; /* bg_main */
-    background-alt: #404457; /* bg_dim */
-    foreground:     #ffffff; /* fg_main */
+    background-alt: #3e4050; /* bg_dim */
+    foreground:     #f2f5ff; /* fg_main */
     selected:       #455eab; /* bg_mode_line */
-    selected-fg:    #ffffff; /* fg_mode_line */
+    selected-fg:    #f2f5ff; /* fg_mode_line */
     active:         #85c397; /* g_green */
     urgent:         #dba2a2; /* red */
 }

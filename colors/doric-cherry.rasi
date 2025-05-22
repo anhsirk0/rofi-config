@@ -1,0 +1,10 @@
+/* Doric-Cherry */
+* {
+    background:     #f7edf1; /* bg_main */
+    background-alt: #e3d8db; /* bg_dim */
+    foreground:     #311926; /* fg_main */
+    selected:       #cc95b7; /* bg_mode_line */
+    selected-fg:    #311926; /* fg_mode_line */
+    active:         #056100; /* g_green */
+    urgent:         #750000; /* red */
+}

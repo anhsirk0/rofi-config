@@ -2,9 +2,9 @@
 * {
     background:     #2a281d; /* bg_main */
     background-alt: #45372f; /* bg_dim */
-    foreground:     #ffffff; /* fg_main */
+    foreground:     #f0e5e0; /* fg_main */
     selected:       #742d33; /* bg_mode_line */
-    selected-fg:    #ffffff; /* fg_mode_line */
+    selected-fg:    #f0e5e0; /* fg_mode_line */
     active:         #85c397; /* g_green */
     urgent:         #d09090; /* red */
 }
